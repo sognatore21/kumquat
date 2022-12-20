@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sognatore21
+- 👋 Hi, I’m kumquat
 - 👀 I’m interested in Website Design & Data analysis
 - 🌱 I’m currently learning python & javascrip
 - 💞️ I’m looking to collaborate on Website Design projects
